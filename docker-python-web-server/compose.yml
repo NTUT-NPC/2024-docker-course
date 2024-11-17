@@ -1,0 +1,5 @@
+services:
+ python-app:
+    build: .
+    ports:
+      - "10000:8000"
