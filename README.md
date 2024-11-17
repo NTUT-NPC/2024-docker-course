@@ -14,3 +14,4 @@ docker build -t \<img_name\> .
 ```sh
 docker run --rm \<img_name\>
 ```
+press `Ctrl-C` to terminate

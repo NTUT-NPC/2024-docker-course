@@ -1,0 +1,52 @@
+fetch https://dl-cdn.alpinelinux.org/alpine/v3.20/main/x86_64/APKINDEX.tar.gz
+fetch https://dl-cdn.alpinelinux.org/alpine/v3.20/community/x86_64/APKINDEX.tar.gz
+(1/5) Installing ncurses-terminfo-base (6.4_p20240420-r2)
+(2/5) Installing libncursesw (6.4_p20240420-r2)
+(3/5) Installing readline (8.2.10-r0)
+(4/5) Installing bash (5.2.26-r0)
+Executing bash-5.2.26-r0.post-install
+(5/5) Installing neofetch (7.1.0-r1)
+Executing busybox-1.36.1-r29.trigger
+OK: 10 MiB in 19 packages
+[?25l[?7l[0m[34m[1m       .hddddddddddddddddddddddh.
+      :dddddddddddddddddddddddddd:
+     /dddddddddddddddddddddddddddd/
+    +dddddddddddddddddddddddddddddd+
+  `sdddddddddddddddddddddddddddddddds`
+ `ydddddddddddd++hdddddddddddddddddddy`
+.hddddddddddd+`  `+ddddh:-sdddddddddddh.
+hdddddddddd+`      `+y:    .sddddddddddh
+ddddddddh+`   `//`   `.`     -sddddddddd
+ddddddh+`   `/hddh/`   `:s-    -sddddddd
+ddddh+`   `/+/dddddh/`   `+s-    -sddddd
+ddd+`   `/o` :dddddddh/`   `oy-    .yddd
+hdddyo+ohddyosdddddddddho+oydddy++ohdddh
+.hddddddddddddddddddddddddddddddddddddh.
+ `yddddddddddddddddddddddddddddddddddy`
+  `sdddddddddddddddddddddddddddddddds`
+    +dddddddddddddddddddddddddddddd+
+     /dddddddddddddddddddddddddddd/
+      :dddddddddddddddddddddddddd:
+       .hddddddddddddddddddddddh.[0m
+[20A[9999999D[43C[0m[1m[34m[1mroot[0m@[34m[1m82c98ac4c99b[0m 
+[43C[0m-----------------[0m 
+[43C[0m[35m[1mOS[0m[0m:[0m Alpine Linux v3.20 on Windows 10 x86_64[0m 
+[43C[0m[35m[1mKernel[0m[0m:[0m 5.15.167.4-microsoft-standard-WSL2[0m 
+[43C[0m[35m[1mUptime[0m[0m:[0m 3 hours, 3 mins[0m 
+[43C[0m[35m[1mPackages[0m[0m:[0m 19 (apk)[0m 
+[43C[0m[35m[1mShell[0m[0m:[0m sh[0m 
+[43C[0m[35m[1mCPU[0m[0m:[0m Intel i5-1035G4 (8) @ 1.497GHz[0m 
+[43C[0m[35m[1mMemory[0m[0m:[0m 736MiB / 1923MiB[0m 
+
+[43C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[43C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+
+
+
+
+
+
+
+[?25h[?7h
