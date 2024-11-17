@@ -1,4 +1,5 @@
 # 2024-docker-course
+簡報: https://files.ntut.club/docker/slides.pdf
 ### How to run `docker compose` examples:
 ```sh
 docker compose up
